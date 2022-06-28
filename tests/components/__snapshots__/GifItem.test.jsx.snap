@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre <GifItem /> Debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="DragonBall"
+      src="https://api.giphy.com/v1/gifs/search?api_key=LBVMB99LWGBQeagYo9tSKUyPYKTSiBg1&q=DragonBall&limit=10"
+    />
+    <p>
+      DragonBall
+    </p>
+  </div>
+</div>
+`;
